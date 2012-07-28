@@ -1,0 +1,8 @@
+
+LIBRARY libcert
+EXPORTS
+	LoadCert
+	VerifyCertByFile
+	VerifyCertByHash
+	GetCertHash
+
